@@ -1,0 +1,15 @@
+<appDefinition>
+   <appId>stage</appId>
+   <id>stage</id>
+   <version></version>
+   <name>stage</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
